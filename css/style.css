@@ -33,7 +33,7 @@ img {
 }
 
 .blockquote-footer {
-    margin: 1rem 0 0;
+    margin: 1rem 0;
 }
 
 
@@ -118,8 +118,15 @@ img {
 }
 
 @media screen and (max-width: 990px) {
+  #stage {
+    overflow: hidden;
+  }
   #stage-caption {
     max-width: 98%;
+    margin: 0;
+  }
+  #stage-caption h1 {
+    font-size: 200%;
   }
 }
 
