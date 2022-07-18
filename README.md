@@ -1,1 +1,1 @@
-# Poland---Block-26-Responsive-Web-Development
+# Practicing ajax and such
